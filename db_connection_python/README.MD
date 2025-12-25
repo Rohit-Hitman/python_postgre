@@ -1,5 +1,5 @@
 
-We are working with a PostgreSQL database. After establishing a connection, we perform various database operations, including inserting records, fetching data, and deleting entries. Additionally, the retrieved data can be exported to a CSV file and stored in a dedicated data/ directory for organized storage and further processing.
+We are working with a PostgreSQL database using python. After establishing a connection, we perform various database operations, including inserting records, fetching data, and deleting entries. Additionally, the retrieved data can be exported to a CSV file and stored in a dedicated data/ directory for organized storage and further processing.
 
 This design ensures modular, maintainable, and scalable code, allowing each functionality—database connection, CRUD operations, and data export—to be tested and executed independently.
 
